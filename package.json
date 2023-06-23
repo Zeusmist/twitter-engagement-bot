@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeusmist",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "openai": "^3.3.0",
+    "puppeteer-core": "^20.7.2",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
